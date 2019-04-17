@@ -1,4 +1,6 @@
-# Install a client agent
+# Install Consul agent on a server
+
+## Install a client agent
 
 1. On the server, create a `c:\consul` directory
 2. Download the latest version of [Consul](https://www.consul.io/downloads.html) (take the Windows x64 `.zip` download) into `c:\consul`
@@ -21,7 +23,7 @@ Start-Service -Name Consul
 
 9. The new node should appear in the [Consul cluster dashboard](https://consul.apps.la-francaise.com/ui/dc/nodes)
 
-# Install a server agent
+## Install a server agent
 
 1. On the server, create a `c:\consul` directory
 2. Download the latest version of [Consul](https://www.consul.io/downloads.html) (take the Windows x64 `.zip` download) into `c:\consul`
