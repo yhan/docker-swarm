@@ -1,4 +1,4 @@
-# docker-swarm installation procedure
+# Docker-Swarm cluster installation procedure
 
 > To follow this procedure, you'll need to remote desktop to the nodes with an administrator access.
 
