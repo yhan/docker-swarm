@@ -4,7 +4,7 @@
 
 ## 1. Install Consul & join the Consul cluster
 
-For each node in the cluster, follow the [Consul agent installation procedure](https://srvtfs/tfs/AM/LT/_wiki/wikis/LT.wiki?wikiVersion=GBwikiMaster&pagePath=%2FHow%20to%2FInstall%20Consul%20agent%20on%20a%20server).
+For each node in the cluster, follow the [Consul agent installation procedure](https://github.com/yhan/docker-swarm/blob/master/Install-Consul-agent-on-a-server.md).
 
 ## 2. Install Logstash
 
